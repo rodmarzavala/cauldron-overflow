@@ -2,27 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb05e92d-7f80-460d-8012-84504a7a7385" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/controllers.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/controllers/hello_controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/styles/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/packages/assets.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/packages/prod/webpack_encore.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/packages/test/webpack_encore.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/packages/webpack_encore.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/cauldron_overflow.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cauldron_overflow.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/styles/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/question_show.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/question/show.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/question/show.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +132,8 @@
       <workItem from="1636992071398" duration="88000" />
       <workItem from="1637276465401" duration="3923000" />
       <workItem from="1637598354953" duration="784000" />
-      <workItem from="1637796118384" duration="2304000" />
+      <workItem from="1637796118384" duration="3770000" />
+      <workItem from="1639005880323" duration="2327000" />
     </task>
     <servers />
   </component>
